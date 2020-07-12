@@ -9,7 +9,7 @@ from config import *
 
 def get_input():
     while True:
-        new_transaction = input('Nhap so tien giao dich moi: ')
+        new_transaction = input('Nhap so tien giao dich moi (don vi nghin dong): ')
         if int(new_transaction) == TERMINATE:
             break
         new_transaction = k.predict(int(new_transaction))
