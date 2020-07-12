@@ -7,3 +7,4 @@ Phát hiện gian lận thẻ tín dụng bằng mô hình Markov ẩn.
    * pandas
    * scikit_learn
  * Lưu ý: Thay đổi đường dẫn tới file training_data.txt trong file main.py đến đúng đường dẫn trong máy của bạn.
+mkdir code
